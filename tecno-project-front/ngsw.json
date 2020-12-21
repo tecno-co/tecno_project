@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1608584277451,
+  "timestamp": 1608586446892,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.8438b835b896fb9c3b20.js",
+        "/main.857d552364c9e1f37b1f.js",
         "/manifest.webmanifest",
         "/polyfills.2e89f9530eab053a7df4.js",
         "/runtime.0e49e2b53282f40c8925.js",
@@ -64,6 +64,7 @@
         "/assets/images/Logo Tecno Project.pdf",
         "/assets/images/Logo Tecno Project.png",
         "/assets/images/doodle.jpg",
+        "/assets/images/login-photo.jpg",
         "/assets/images/logo_tecno_project.png",
         "/assets/images/logo_tecno_project_dashboard.png",
         "/assets/images/logo_tecno_project_oscuros.png",
@@ -114,6 +115,7 @@
     "/assets/images/Logo Tecno Project.pdf": "5ae3c09046324aa5c2d9dfbc638e39405036c13d",
     "/assets/images/Logo Tecno Project.png": "645190db1f4c2b5e19127978468a0fa371454471",
     "/assets/images/doodle.jpg": "e4ce00fb761925aaca461a06e5e81916b72b9764",
+    "/assets/images/login-photo.jpg": "eeb18608b182b292a4020310154b36eebf597984",
     "/assets/images/logo_tecno_project.png": "321d18d7737652bc317a199787163f87fa97f154",
     "/assets/images/logo_tecno_project_dashboard.png": "61e61baa34f0e2964eefdab0e89951e544726b7f",
     "/assets/images/logo_tecno_project_oscuros.png": "4a20b13e02fb04187d964de37c3bdf64408667fe",
@@ -124,8 +126,8 @@
     "/assets/scss/_theming_tecno.scss": "9646ec22541a0d59f282827ca129ebf15ebccad4",
     "/doodle.a4b4ca31880eeb317a85.jpg": "e4ce00fb761925aaca461a06e5e81916b72b9764",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "e846219894fa862975a0f1eab259028391710e55",
-    "/main.8438b835b896fb9c3b20.js": "6e372ebd372ec880a77eabe2a28ae416a535800d",
+    "/index.html": "3d9f168f3842ebc785fe57007c122214a028a50a",
+    "/main.857d552364c9e1f37b1f.js": "cf947426ba609c9a80d67a15e3a559d6225a4c64",
     "/manifest.webmanifest": "0178eae71e57ff3d3d2fa2f11f7547525d9a6fe7",
     "/polyfills.2e89f9530eab053a7df4.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",

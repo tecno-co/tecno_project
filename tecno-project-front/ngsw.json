@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610554085555,
+  "timestamp": 1611158119954,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.59f4cb4dcea9bcea20f4.js",
+        "/main.fa45f36db55e385819ae.js",
         "/manifest.webmanifest",
         "/polyfills.2e89f9530eab053a7df4.js",
         "/runtime.0e49e2b53282f40c8925.js",
-        "/styles.2dbb59f4c314f378e2e4.css"
+        "/styles.5a9dd6e0c25cf5777cdd.css"
       ],
       "patterns": []
     },
@@ -64,6 +64,7 @@
         "/assets/images/Logo Tecno Project.pdf",
         "/assets/images/Logo Tecno Project.png",
         "/assets/images/doodle.jpg",
+        "/assets/images/login-photo.jpg",
         "/assets/images/logo_tecno_project.png",
         "/assets/images/logo_tecno_project_dashboard.png",
         "/assets/images/logo_tecno_project_oscuros.png",
@@ -114,6 +115,7 @@
     "/assets/images/Logo Tecno Project.pdf": "5ae3c09046324aa5c2d9dfbc638e39405036c13d",
     "/assets/images/Logo Tecno Project.png": "645190db1f4c2b5e19127978468a0fa371454471",
     "/assets/images/doodle.jpg": "e4ce00fb761925aaca461a06e5e81916b72b9764",
+    "/assets/images/login-photo.jpg": "eeb18608b182b292a4020310154b36eebf597984",
     "/assets/images/logo_tecno_project.png": "321d18d7737652bc317a199787163f87fa97f154",
     "/assets/images/logo_tecno_project_dashboard.png": "61e61baa34f0e2964eefdab0e89951e544726b7f",
     "/assets/images/logo_tecno_project_oscuros.png": "4a20b13e02fb04187d964de37c3bdf64408667fe",
@@ -123,13 +125,13 @@
     "/assets/scss/_theme.scss": "f31a87a4cc4413e7c4fd6eb187efab329e8e1bfe",
     "/assets/scss/_theming_tecno.scss": "9646ec22541a0d59f282827ca129ebf15ebccad4",
     "/doodle.a4b4ca31880eeb317a85.jpg": "e4ce00fb761925aaca461a06e5e81916b72b9764",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "1735723be0d4fd9fa85d91631a835f2183f55e3c",
-    "/main.59f4cb4dcea9bcea20f4.js": "b4b1ed11121c4104581a8cb90794803a412401c3",
+    "/favicon.ico": "33e9a6b7ddb999689f50ba168974d1b034518382",
+    "/index.html": "edbe81d389d791c61fa96776b9befca1734b9abf",
+    "/main.fa45f36db55e385819ae.js": "58c8d33ff15cc6d7a332b5d54ef4129b7dd08dd3",
     "/manifest.webmanifest": "0178eae71e57ff3d3d2fa2f11f7547525d9a6fe7",
     "/polyfills.2e89f9530eab053a7df4.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.2dbb59f4c314f378e2e4.css": "8b288f7f1a711f4051bd8f054cefd3068753b0e8"
+    "/styles.5a9dd6e0c25cf5777cdd.css": "c261f7f2896e1b019093a7f78a469fbc9901b6bf"
   },
   "navigationUrls": [
     {

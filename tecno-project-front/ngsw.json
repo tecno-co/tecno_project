@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1612826595991,
+  "timestamp": 1613410268880,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,12 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.88fa8084255ecb3e42dd.js",
+        "/main.f5a7549a662eb13ae4fc.js",
         "/manifest.webmanifest",
         "/polyfills.2e89f9530eab053a7df4.js",
         "/runtime.0e49e2b53282f40c8925.js",
-        "/styles.681591bbda901687d50d.css"
+        "/scripts.a58f8b27d0fed4013c2f.js",
+        "/styles.4ff95bb242df0d8090a1.css"
       ],
       "patterns": []
     },
@@ -43,6 +44,7 @@
         "/assets/images/logo_tecno_project.png",
         "/assets/images/logo_tecno_project_dashboard.png",
         "/assets/images/logo_tecno_project_oscuros.png",
+        "/assets/js/loader.js",
         "/assets/scss/_buttons.scss",
         "/assets/scss/_cards.scss",
         "/assets/scss/_grid.scss",
@@ -69,6 +71,7 @@
     "/assets/images/logo_tecno_project.png": "321d18d7737652bc317a199787163f87fa97f154",
     "/assets/images/logo_tecno_project_dashboard.png": "61e61baa34f0e2964eefdab0e89951e544726b7f",
     "/assets/images/logo_tecno_project_oscuros.png": "4a20b13e02fb04187d964de37c3bdf64408667fe",
+    "/assets/js/loader.js": "dd8ccd685e39b4a0c5989ab58b27023ec87ad326",
     "/assets/scss/_buttons.scss": "8f870ffa1494693ec42a408900af23101362f382",
     "/assets/scss/_cards.scss": "5bb7fc5bfc9b1f7095f89ca6d7ecd4d88e3745cd",
     "/assets/scss/_grid.scss": "318209f60b14051994570779b368b733354ced5c",
@@ -76,12 +79,13 @@
     "/assets/scss/_theming_tecno.scss": "f71244ac6fc9fd93a6e7a3f7a1b28cb38a1e7cd2",
     "/doodle.a4b4ca31880eeb317a85.jpg": "e4ce00fb761925aaca461a06e5e81916b72b9764",
     "/favicon.ico": "33e9a6b7ddb999689f50ba168974d1b034518382",
-    "/index.html": "400446426041d413561a9e435d9ed01f78c94ee5",
-    "/main.88fa8084255ecb3e42dd.js": "e019cd7dfd4b441cf6d1866bbacaccd114245d75",
+    "/index.html": "df23ca90d8e448e4df838ccd04cb9be9631ced44",
+    "/main.f5a7549a662eb13ae4fc.js": "fe364abb74bb6c74053be1bfae5c4827053f6ee1",
     "/manifest.webmanifest": "48068cd4ae54da9684416479adaa5d66964fb174",
     "/polyfills.2e89f9530eab053a7df4.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.681591bbda901687d50d.css": "faf76e79085dcab3846ade1e38bcef538ff3bed7"
+    "/scripts.a58f8b27d0fed4013c2f.js": "d66890c3eca5293a99775a7572b165f9caeb40ef",
+    "/styles.4ff95bb242df0d8090a1.css": "7f448392c0aac18b971be0bd9f890a2ab046346c"
   },
   "navigationUrls": [
     {
